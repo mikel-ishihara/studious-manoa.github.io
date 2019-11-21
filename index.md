@@ -5,8 +5,6 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Walkthrough Videos](#walkthrough-videos)
-* [Example Enhancements](#example-enhancements)
 * [Team Members](#team-members)
 
 ## Overview 
@@ -140,7 +138,7 @@ The goal of [Milestone 1](https://github.com/studious-manoa/studious-manoa/proje
 
 The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 The goal of Milestone 3 is to clean up the code base and fix minor UI issues.
 
