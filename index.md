@@ -137,7 +137,7 @@ The goal of [Milestone 1](https://github.com/studious-manoa/studious-manoa/proje
 
 ### Milestone 2: Data model development 
 
-The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
+The goal of [Milestone 2](https://github.com/studious-manoa/studious-manoa/projects/2) is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
 
 ### Milestone 3: Final touches
 
