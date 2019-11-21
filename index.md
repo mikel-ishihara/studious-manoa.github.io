@@ -6,7 +6,7 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Team Members](#team-members)
+* [Contact Us](#contact-us)
 
 ## Overview 
 
@@ -143,7 +143,7 @@ The goal of [Milestone 2](https://github.com/studious-manoa/studious-manoa/proje
 
 The goal of Milestone 3 is to clean up the code base and fix minor UI issues.
 
-## Team Members
+## Contact Us
 
 Listed below are the professional portfolios of the Sudious-Manoa team:
 
