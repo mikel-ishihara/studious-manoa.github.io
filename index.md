@@ -1,5 +1,6 @@
 ## Table of contents
 
+* [Deployed Page](http://studiousmanoa.meteorapp.com)
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
