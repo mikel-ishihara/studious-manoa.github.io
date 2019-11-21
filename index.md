@@ -133,7 +133,7 @@ The following sections document the development history of Studious Manoa.
 
 ### Milestone 1: Mockup development
 
-The goal of [Mileston 1](https://github.com/studious-manoa/studious-manoa/projects/1)is to create a set of HTML pages providing a mockup of the pages in the system. 
+The goal of [Milestone 1](https://github.com/studious-manoa/studious-manoa/projects/1) is to create a set of HTML pages providing a mockup of the pages in the system. 
 
 
 ### Milestone 2: Data model development 
