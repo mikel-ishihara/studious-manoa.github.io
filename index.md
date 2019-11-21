@@ -5,8 +5,9 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
+* [Walkthrough Videos](#walkthrough-videos)
+* [Example Enhancements](#example-enhancements)
+* [Team Members](#team-members)
 
 ## Overview 
 
@@ -132,7 +133,7 @@ The following sections document the development history of Studious Manoa.
 
 ### Milestone 1: Mockup development
 
-The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system. 
+The goal of [Mileston 1](https://github.com/studious-manoa/studious-manoa/projects/1)is to create a set of HTML pages providing a mockup of the pages in the system. 
 
 
 ### Milestone 2: Data model development 
@@ -142,4 +143,15 @@ The goal of Milestone 2 is to implement the data model: the underlying set of Mo
 ## Milestone 3: Final touches
 
 The goal of Milestone 3 is to clean up the code base and fix minor UI issues.
+
+## Team Members
+
+Listed below are the professional portfolios of the Sudious-Manoa team:
+
+* [Jianna Orias](https://jlorias.github.io/)
+* [Rebecca Vatnebryn](https://rebeccavatnebryn.github.io/)
+* [Sahra Moseby](https://sahramoseby.github.io/)
+* [Nathaniel Tomchak](https://ntomchak.github.io/)
+* [Eric Botello](https://erbot.github.io/)
+
 
