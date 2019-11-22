@@ -39,10 +39,14 @@ This section provides a walkthrough of the Studious Manoa user interface and its
 
 ### Landing Page
 
+<img src="../images/sm-landing.png">
+
 The landing page is presented to users when they visit the top-level URL to the site. This also shows a map uh UH Manoa implemented 
 with the Google Maps API key.
 
 ### Sign in and sign up
+
+<img src="../images/sm-signin.png">
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. 
 You must have been previously registered with the system to use this option.
@@ -50,6 +54,7 @@ You must have been previously registered with the system to use this option.
   
 Alternatively, you can select "Sign up" to go to the following page and register as a new user.
 
+<img src="../images/sm-signup.png">
 
 ## Community Feedback 
 
