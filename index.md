@@ -41,8 +41,7 @@ This section provides a walkthrough of the Studious Manoa user interface and its
 
 <img src="../images/sm-landing.png">
 
-The landing page is presented to users when they visit the top-level URL to the site. This also shows a map uh UH Manoa implemented 
-with the Google Maps API key.
+The landing page is presented to users when they visit the top-level URL to the site.
 
 ### Sign in and sign up
 
@@ -55,6 +54,25 @@ You must have been previously registered with the system to use this option.
 Alternatively, you can select "Sign up" to go to the following page and register as a new user.
 
 <img src="../images/sm-signup.png">
+
+### Reviews Page
+
+<img src="../images/sm-reviews.png">
+
+The reviews page is presented to users even if they're not logged in. Currently, it gives everyone the ability to submit a review. Later, we plan to make this page read-only for users not signed in to the site. 
+
+### Locations Page
+
+<img src="../images/sm-find-location.png">
+
+The find location page is where users will be able to find study locations. This will also show a map uh UH Manoa implemented 
+with the Google Maps API key.
+
+### Add Location Page
+
+<img src="../images/sm-add-location.png">
+
+The find location page is where users will be able to add study locations. Users must be logged in as an admin to have access to this page.
 
 ## Community Feedback 
 
