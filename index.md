@@ -74,6 +74,12 @@ with the Google Maps API key.
 
 The find location page is where users will be able to add study locations. Users must be logged in as an admin to have access to this page.
 
+### Add Location Page
+
+<img src="./images/sm-edit-location.png">
+
+The edit location page is where users will be able to edit study locations. Users must be logged in as an admin to have access to this page.
+
 ## Community Feedback 
 
 We are interested in your experience using Studious Manoa. We will provide a form in the near future that will help us understand 
