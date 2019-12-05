@@ -170,7 +170,7 @@ The goal of [Milestone 2](https://github.com/studious-manoa/studious-manoa/proje
 
 ### Milestone 3: Final touches
 
-The goal of Milestone 3 is to clean up the code base and fix minor UI issues.
+The goal of [Milestone 3](https://github.com/studious-manoa/studious-manoa/projects/3) is to clean up the code base and fix minor UI issues.
 
 ## Contact Us
 
