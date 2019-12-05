@@ -57,26 +57,26 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### Reviews Page
 
-<img src="./images/sm-reviews.png">
+<img src="./images/reviews.png">
 
 The reviews page is presented to users even if they're not logged in. Currently, it gives everyone the ability to submit a review. Later, we plan to make this page read-only for users not signed in to the site. 
 
 ### Locations Page
 
-<img src="./images/sm-find-location.png">
+<img src="./images/list-location.png">
 
 The find location page is where users will be able to find study locations. This will also show a map uh UH Manoa implemented 
 with the Google Maps API key.
 
 ### Add Location Page
 
-<img src="./images/sm-add-location.png">
+<img src="./images/add-location.png">
 
 The find location page is where users will be able to add study locations. Users must be logged in as an admin to have access to this page.
 
-### Add Location Page
+### Edit Location Page
 
-<img src="./images/sm-edit-location.png">
+<img src="./images/edit-location.png">
 
 The edit location page is where users will be able to edit study locations. Users must be logged in as an admin to have access to this page.
 
@@ -170,7 +170,7 @@ The goal of [Milestone 2](https://github.com/studious-manoa/studious-manoa/proje
 
 ### Milestone 3: Final touches
 
-The goal of Milestone 3 is to clean up the code base and fix minor UI issues.
+The goal of [Milestone 3](https://github.com/studious-manoa/studious-manoa/projects/3) is to clean up the code base and fix minor UI issues.
 
 ## Contact Us
 
