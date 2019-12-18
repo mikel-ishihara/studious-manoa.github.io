@@ -28,9 +28,8 @@ week. There are many spots available to students that are not utilized because s
 
 A website that will allow students to post and rate study spots throughout the UH Manoa campus and the surrounding areas so that 
 other students become aware of possible study spots. The entry for each location will list hours, capabilities, capacity of the 
-location, and accessibility to different types of students. In addition, there is a “real-time” feature, where students can login 
-and provide time-stamped notifications about the current state of the study space. This can inform other students about whether 
-the space is noisy, or crowded, or even quiet and empty.
+location, and accessibility to different types of students. This can inform other students about whether the space is noisy, or crowded,
+or even quiet and empty.
 
 
 ## User Guide
@@ -54,12 +53,6 @@ You must have been previously registered with the system to use this option.
 Alternatively, you can select "Sign up" to go to the following page and register as a new user.
 
 <img src="./images/sm-signup.png">
-
-### Reviews Page
-
-<img src="./images/reviews.png">
-
-The reviews page is presented to users even if they're not logged in. Currently, it gives everyone the ability to submit a review. Later, we plan to make this page read-only for users not signed in to the site. 
 
 ### Locations Page
 
