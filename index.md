@@ -1,6 +1,6 @@
 ## Table of contents
 
-* [Deployed Page](http://studiousmanoa.meteorapp.com)
+* [Deployed Page](http://studious.toomanyco.ws/)
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
