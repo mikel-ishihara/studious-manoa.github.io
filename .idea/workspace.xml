@@ -28,7 +28,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,7 +52,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575539532639</updated>
-      <workItem from="1575539533837" duration="155000" />
+      <workItem from="1575539533837" duration="351000" />
+      <workItem from="1575574768069" duration="1200000" />
+      <workItem from="1575675541152" duration="105000" />
+      <workItem from="1575750812299" duration="7000" />
     </task>
     <servers />
   </component>
@@ -64,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
