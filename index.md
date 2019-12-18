@@ -69,7 +69,7 @@ At the bottom of the locations page, users can click a button to add a location 
 
 ### Add Review Page
 
-<img src="./images/revi.png">
+<img src="./images/reviews-final.png">
 
 By clicking "Add a review for this location" on a location's page, users can submit a review of that location.
 
@@ -81,8 +81,11 @@ The edit location page is where admins will be able to edit study locations. Use
 
 ## Community Feedback 
 
-We are interested in your experience using Studious Manoa. We will provide a form in the near future that will help us understand 
-how to better improve the system.
+From a survey of several UH Manoa students, we received and considered several points of feedback about our website:
+* We should have a little bit more selection to choose from, rather than just having what we have for locations
+* It would be nice if users are able to maybe favorite places and have a community board for discussions
+* The layout is very nice!
+* The Yelp-based design is a good idea for locations.
 
 ## Developer Guide
 
