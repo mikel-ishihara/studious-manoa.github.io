@@ -69,7 +69,7 @@ At the bottom of the locations page, users can click a button to add a location 
 
 ### Add Review Page
 
-<img src="./images/review.jpg">
+<img src="./images/revi.png">
 
 By clicking "Add a review for this location" on a location's page, users can submit a review of that location.
 
