@@ -117,8 +117,6 @@ Studious Manoa is based upon [meteor-application-template-react](https://ics-sof
 
 ### Data model
 
-To be implemented soon.
-
 ## Initialization
 
 The config directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/bowfolios/bowfolios/blob/master/config/settings.development.json).
@@ -176,7 +174,7 @@ The goal of [Milestone 3](https://github.com/studious-manoa/studious-manoa/proje
 
 ## Contact Us
 
-Listed below are the professional portfolios of the Sudious-Manoa team:
+Listed below are the professional portfolios of the Studious Manoa team:
 
 * [Jianna Orias](https://jlorias.github.io/)
 * [Rebecca Vatnebryn](https://rebeccavatnebryn.github.io/)
