@@ -52,26 +52,32 @@ You must have been previously registered with the system to use this option.
   
 Alternatively, you can select "Sign up" to go to the following page and register as a new user.
 
-<img src="./images/sm-signup.png">
+<img src="./images/signup.jpg">
 
 ### Locations Page
 
-<img src="./images/list-location.png">
+<img src="./images/location.jpg">
 
-The find location page is where users will be able to find study locations. This will also show a map uh UH Manoa implemented 
-with the Google Maps API key.
+The find location page is where users will be able to find study locations. This will also show a map of UH Manoa implemented 
+with the Leaflet API and OpenStreetMaps. Users can browse location by looking at the map or by looking at the cards below the map. By clicking on a link in the map marker or the link in the cards, users can access that location's page which contains more information.
 
 ### Add Location Page
 
-<img src="./images/add-location.png">
+<img src="./images/addlocation.jpg">
 
-The find location page is where users will be able to add study locations. Users must be logged in as an admin to have access to this page.
+At the bottom of the locations page, users can click a button to add a location which has not yet been added to the site. Users must be logged in to have access to this page. 
+
+### Add Review Page
+
+<img src="./images/review.jpg">
+
+By clicking "Add a review for this location" on a location's page, users can submit a review of that location.
 
 ### Edit Location Page
 
-<img src="./images/edit-location.png">
+<img src="./images/editlocation.jpg">
 
-The edit location page is where users will be able to edit study locations. Users must be logged in as an admin to have access to this page.
+The edit location page is where admins will be able to edit study locations. Users must be logged in as an admin to have access to this page.
 
 ## Community Feedback 
 
